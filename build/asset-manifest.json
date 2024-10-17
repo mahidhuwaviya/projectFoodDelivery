@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectFoodDelivery/static/css/main.e19add00.css",
+    "main.js": "/projectFoodDelivery/static/js/main.bbedc02e.js",
+    "static/js/453.3c3c57d0.chunk.js": "/projectFoodDelivery/static/js/453.3c3c57d0.chunk.js",
+    "index.html": "/projectFoodDelivery/index.html",
+    "main.e19add00.css.map": "/projectFoodDelivery/static/css/main.e19add00.css.map",
+    "main.bbedc02e.js.map": "/projectFoodDelivery/static/js/main.bbedc02e.js.map",
+    "453.3c3c57d0.chunk.js.map": "/projectFoodDelivery/static/js/453.3c3c57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19add00.css",
+    "static/js/main.bbedc02e.js"
+  ]
+}
